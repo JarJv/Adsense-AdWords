@@ -1,2 +1,1 @@
-# Adsense-AdWords
-Adsense-AdWords
+# https://jarjv.github.io/Adsense-AdWords/
